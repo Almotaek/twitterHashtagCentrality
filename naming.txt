@@ -1,0 +1,27 @@
+AbsherBusiness$أبشر أعمال
+makkahregion$إمارة منطقة مكة المكرمة
+Absher$أبشر
+NIC_KSA$مركز المعلومات الوطني
+emara_riyadh$إمارة منطقة الرياض
+MOISaudiArabia$وزارة الداخلية
+moimsgovsa$الخدمات الطبية بوزارة الداخلية
+SaudiFSF$قوات أمن المنشآت
+NorthborderSA$إمارة منطقة الحدود الشمالية
+BG994$حرس الحدود السعودي
+KSA_KFSC$كلية الملك فهد الأمنية
+emara_najran$إمارة منطقة نجران
+emartasir$إمارة منطقة عسير
+imarat_almadina$إمارة منطقة المدينة المنورة
+SaudiDCD$الدفاع المدني السعودي
+security_gov$الأمن العام
+Mokafha_SA$مكافحة المخدرات
+eMoroor$المرور السعودي
+AljawazatKSA$الجوازات السعودية
+AhwalKSA$الأحوال المدنية
+AljoufSA$إمارة منطقة الجوف
+emara_hail$إمارة منطقة حائل
+emara_sharqia$إمارة المنطقة الشرقية
+TabukPrincipal$إمارة منطقة تبوك
+jazangov$إمارة منطقة جازان
+EmarahAlQassim$إمارة منطقة القصيم
+BahaPrincedom$إمارة منطقة الباحة
